@@ -2,4 +2,8 @@
 <resources>
     <string name="app_name">Projet1IM</string>
     <string name="cal_data">Calculer</string>
+    <string name="title_main">Solin</string>
+    <string name="name_edit">Nom</string>
+    <string name="last_name_edit">Nom de Famille</string>
+    <string name="birth_edit">Date de Naissance</string>
 </resources>

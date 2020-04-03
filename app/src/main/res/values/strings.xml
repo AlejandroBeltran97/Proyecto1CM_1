@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Proyecto1CM</string>
     <string name="cal_data">Calcular</string>
+    <string name="title_main">Solin</string>
+    <string name="name_edit">Nombre</string>
+    <string name="last_name_edit">Apellidos</string>
+    <string name="birth_edit">Fecha de Nacimiento</string>
 </resources>
