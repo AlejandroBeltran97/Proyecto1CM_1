@@ -3,24 +3,41 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#4B0FED</color>
     <color name="colorAccent">#03DAC5</color>
+
     <!--Colores del Botón-->
     <color name="btn_color_in">#FFFFFF</color>
-    <color name="btn_color_out">#00FF00</color>
+    <color name="btn_color_out">#B3496B</color>
+
     <!--Colores primarios del fondo-->
     <color name="first_layer_1">#FF4B0FED</color>
     <color name="first_layer_2">#FF34BFDB</color>
+
     <!--Colores secundarios del fondo-->
     <color name="second_layer_1">#FF4B0FED</color>
     <color name="second_layer_2">#FFE74C3C</color>
+
     <!--Colores terciarios del fondo-->
     <color name="third_layer_1">#FF4B0FED</color>
     <color name="third_layer_2">#FFEA92DB</color>
+
     <!--Color del texto del botón-->
     <color name="btn_text">#FFFFFF</color>
+
     <!--Color del borde del botón-->
-    <color name="btn_border">#FFFFFF</color>
+    <color name="btn_border">#57171414</color>
+
     <!--Color del título del main-->
     <color name="title_color">#FFFFFF</color>
+
     <!--Color de los campos-->
     <color name="name_color">#FFFFFF</color>
+
+    <!--Color de fondo de los campos-->
+    <color name="bck_btn">#2CB3B3B3</color>
+
+    <!--Color del encabezado del calendario-->
+    <color name="header_cal">#E62C6D</color>
+
+    <!--Color de los botones del calendario-->
+    <color name="button_cal">#D56A40</color>
 </resources>
