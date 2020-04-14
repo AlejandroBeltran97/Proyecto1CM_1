@@ -57,7 +57,7 @@ public class ResultActivity extends AppCompatActivity {
             }
         }
         greeting_user.setText(getString(R.string.greeting_user) + usrname);
-        Log.d(TAG, dateArray[0] + "/" + dateArray[1] + "/" + dateArray[2]);
+        //Log.d(TAG, dateArray[0] + "/" + dateArray[1] + "/" + dateArray[2]);
         String usrname_up = usrname.toUpperCase();
         String lastname_up = lastname.toUpperCase();
         String[] last_names = lastname_up.split(" ", 5);
