@@ -1,9 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Proyecto1CM</string>
+    <string name="app_name">Proyect1CM</string>
     <string name="cal_data">Calculate</string>
     <string name="title_main">Solin</string>
     <string name="name_edit">Name</string>
     <string name="last_name_edit">Last Names</string>
     <string name="birth_edit">Birthday</string>
+    <string name="info_app">What is Solin? \n\nSolin is an app that allows you to obtain your RFC, based on your name, last names and birthday.\n\n
+    Further, based on the birthday, Solin can show your horoscope, as well as your animal according to the chinese calendar.</string>
+    <string name="greeting_user">"Hi, "</string>
+    <string name="zodiac_aries">Aries</string>
+    <string name="rfc_name">RFC</string>
+    <string name="zodiac_acu">Aquarius</string>
+    <string name="zodiac_pis">Pisces</string>
+    <string name="zodiac_taurus">Taurus</string>
+    <string name="zodiac_gemini">Gemini</string>
+    <string name="zodiac_cancer">Cancer</string>
+    <string name="zodiac_leo">Leo</string>
+    <string name="zodiac_virgo">Virgo</string>
+    <string name="zodiac_libra">Libra</string>
+    <string name="zodiac_escorpio">Scorpio</string>
+    <string name="zodiac_sagitario">Sagittarius</string>
+    <string name="zodiac_capr">Capricorn</string>
+    <string name="chinese_rat">Rat</string>
+    <string name="chinese_Ox">Ox</string>
+    <string name="chinese_tiger">Tiger</string>
+    <string name="chinese_rabbit">Rabbit</string>
+    <string name="chinese_dragon">Dragon</string>
+    <string name="chinese_snake">Snake</string>
+    <string name="chinese_horse">Horse</string>
+    <string name="chinese_goat">Goat</string>
+    <string name="chinese_monkey">Monkey</string>
+    <string name="chinese_rooster">Rooster</string>
+    <string name="chinese_dog">Dog</string>
+    <string name="chinese_pig">Pig</string>
+    <string name="age">Age</string>
+    <string name="error_numbers_name">The name cannot contain numbers</string>
+    <string name="error_numbers_lstname">Last names cannot contain numbers</string>
+    <string name="error_1lstname">Paternal and maternal surname required</string>
+    <string name="error_empty_name">The name field must be filled</string>
+    <string name="error_empty_lstname">The last name field must be filled</string>
+    <string name="error_emptyDate">Enter a date</string>
 </resources>

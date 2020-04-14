@@ -40,4 +40,13 @@
 
     <!--Color de los botones del calendario-->
     <color name="button_cal">#D56A40</color>
+
+    <!-- Color del texto de información -->
+    <color name="info_color">#FFFFFF</color>
+
+    <!-- Color del saludo -->
+    <color name="greeting_color">#FFFFFF</color>
+
+    <!-- Color del texto de las tarjetas -->
+    <color name="card_color">#000000</color>
 </resources>
